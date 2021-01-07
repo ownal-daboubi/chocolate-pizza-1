@@ -1,0 +1,86 @@
+body header div.photoone{
+    float:right
+}
+body img.right{
+    float:left;
+}
+body main img.pp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body p.italic {
+font-style: italic;
+}
+
+body{
+    margin: auto;
+    width: 900px;
+    height: 0 auto;
+    background-color: white;
+    min-height: 1400;
+    position: relative;
+    margin-bottom: 100px;
+}
+header{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  main p.own {
+font-family: Arial;
+  }
+  body footer button.girl {
+float: right;
+  }
+
+body footer p.final {
+    text-align: center 
+}
+
+body footer img.salah{
+    
+    margin: 5px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
